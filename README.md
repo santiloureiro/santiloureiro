@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Front-End development
 - 📫 How to reach me:
--                     Email: mailto:santiloureiro12@gmail.com
+-                     Email: santiloureiro12@gmail.com
 
 <!---
 santiloureiro/santiloureiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
