@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @santiloureiro
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Front-End development
+- Tools:
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- 
 - 📫 How to reach me:
 -                     Email: santiloureiro12@gmail.com
 
